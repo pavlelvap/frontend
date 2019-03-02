@@ -971,6 +971,11 @@ strike {}
     float:left;
 }
 
+.col-sml-4 {
+    width:33.333334%;
+    float:left;
+}
+
  @media   (min-width: 48em) {
     .col-lrg-4 {
         width:33.33333%;
